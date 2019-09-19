@@ -1,4 +1,3 @@
-.DS_Store
-.gitignore
-*/.iplab1-checkpoint.ipynb
+**/.DS_Store
+*/.ipynb_checkpoints.ipynb
 .idea/*
